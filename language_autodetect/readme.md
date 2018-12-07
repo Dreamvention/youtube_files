@@ -7,3 +7,9 @@ Opencart has a small piece of code that is responsible for autodetecting yuour b
 This is a small fix that removes that language detect code from being triggered. 
 
 VIDEO https://www.youtube.com/watch?v=LM-v5wY7_Xg
+
+
+## Installation
+
+1. Go to OpenCart Extension installer and upload disable_language_autodetect.ocmod.zip
+2. Go to OpenCart Modifications and refresh cache. 
