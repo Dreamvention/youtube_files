@@ -1,5 +1,7 @@
 # How to recorever admin password
 
+VIDEO https://www.youtube.com/watch?v=BC6LJIeHaHo
+
 Hi, if you have logged out of OpenCart Admin panel and forgot your password, here are some simple tips how to recover one.
 
 Of course, the easist way is to use your Email. But if you used a fake email when creating your OpenCart Admin user, this option does not work for you.
