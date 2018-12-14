@@ -1,6 +1,8 @@
 # How Extra Position 1 is added
 Because OpenCart has hardcoded only 4 positions, you may experience the need to create your own positions. Luckily in the latest versions of OpenCart 2 and above it is relatively simple.
 
+Based on our youtube video we have created this simple OpenCart extension that you can install via Extension Installer and use One more Extra Position.
+
 ## Here is a breakdown of the steps:
 
 1. Add html code for new position to admin view;
